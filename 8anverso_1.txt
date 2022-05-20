@@ -1,0 +1,174 @@
+
+        Elemento            Real         Nominal        Desviac.       Tol. sup.       Tol. inf.      Dent./Fue.
+                                                       (Desv TP)        (Tol TP)                                
+Circulo: Circulo_inferior_S1(ID:8, a partir de 41 puntos) 
+     Coord. X =            3.990                                                                                
+     Coord. Y =            2.380                                                                                
+     Diametro =            2.405                                                                                
+    Circular. =                                            0.009                                                
+
+Circulo: Circulo_superior_katodo_S6(ID:14, a partir de 51 puntos) 
+     Coord. X =            3.960                                                                                
+     Coord. Y =          117.423                                                                                
+     Diametro =            2.398                                                                                
+    Circular. =                                            0.011                                                
+
+Plano: Plano_Z(ID:16, a partir de 9 puntos) 
+     Planitud =                                            0.268                                                
+
+Distancia: Anchura_sPM[1,1](ID:21) entre Linea_der_sPM[1,1](ID:20) y Linea_izq_sPM[1,1](ID:18)
+           SC =            6.030           6.000           0.030           0.100          -0.100              OK
+
+Distancia: Longitud_sPM[1,1](ID:22) entre Linea_inf_sPM[1,1](ID:17) y Linea_sup_sPM[1,1](ID:19)
+           SC =            6.081           6.000           0.081           0.100          -0.100              OK
+
+Punto: Centro_sPM[1,1](ID:25, a partir de 0 puntos) 
+     Coord. X =            0.096           0.000           0.096           0.100          -0.100              OK
+     Coord. Y =            7.500           7.500           0.000           0.100          -0.100              OK
+
+Plano: Plano_superficie_sPM[1,1](ID:28, a partir de 100 puntos) 
+     Planitud =                                            0.150                                                
+
+Distancia: Altura_sPM[1,1](ID:29) entre Punto_cercano_sPM[1,1](ID:27) y Plano_superficie_sPM[1,1](ID:28)
+           SC =            1.305           1.500          -0.195           0.100          -0.100           NO OK
+
+Distancia: Anchura_sPM[1,2](ID:34) entre Linea_der_sPM[1,2](ID:33) y Linea_izq_sPM[1,2](ID:31)
+           SC =            6.029           6.000           0.029           0.100          -0.100              OK
+
+Distancia: Longitud_sPM[1,2](ID:35) entre Linea_inf_sPM[1,2](ID:30) y Linea_sup_sPM[1,2](ID:32)
+           SC =            6.085           6.000           0.085           0.100          -0.100              OK
+
+Punto: Centro_sPM[1,2](ID:38, a partir de 0 puntos) 
+     Coord. X =            0.062           0.000           0.062           0.100          -0.100              OK
+     Coord. Y =           27.506          27.500           0.006           0.100          -0.100              OK
+
+Plano: Plano_superficie_sPM[1,2](ID:41, a partir de 100 puntos) 
+     Planitud =                                            0.133                                                
+
+Distancia: Altura_sPM[1,2](ID:42) entre Punto_cercano_sPM[1,2](ID:40) y Plano_superficie_sPM[1,2](ID:41)
+           SC =            1.336           1.500          -0.164           0.100          -0.100           NO OK
+
+Distancia: Anchura_sPM[1,3](ID:47) entre Linea_der_sPM[1,3](ID:46) y Linea_izq_sPM[1,3](ID:44)
+           SC =            6.028           6.000           0.028           0.100          -0.100              OK
+
+Distancia: Longitud_sPM[1,3](ID:48) entre Linea_inf_sPM[1,3](ID:43) y Linea_sup_sPM[1,3](ID:45)
+           SC =            6.084           6.000           0.084           0.100          -0.100              OK
+
+Punto: Centro_sPM[1,3](ID:51, a partir de 0 puntos) 
+     Coord. X =            0.046           0.000           0.046           0.100          -0.100              OK
+     Coord. Y =           47.514          47.500           0.014           0.100          -0.100              OK
+
+Plano: Plano_superficie_sPM[1,3](ID:54, a partir de 100 puntos) 
+     Planitud =                                            0.123                                                
+
+Distancia: Altura_sPM[1,3](ID:55) entre Punto_cercano_sPM[1,3](ID:53) y Plano_superficie_sPM[1,3](ID:54)
+           SC =            1.318           1.500          -0.182           0.100          -0.100           NO OK
+
+Distancia: Anchura_sPM[1,4](ID:60) entre Linea_der_sPM[1,4](ID:59) y Linea_izq_sPM[1,4](ID:57)
+           SC =            6.029           6.000           0.029           0.100          -0.100              OK
+
+Distancia: Longitud_sPM[1,4](ID:61) entre Linea_inf_sPM[1,4](ID:56) y Linea_sup_sPM[1,4](ID:58)
+           SC =            6.084           6.000           0.084           0.100          -0.100              OK
+
+Punto: Centro_sPM[1,4](ID:64, a partir de 0 puntos) 
+     Coord. X =            0.042           0.000           0.042           0.100          -0.100              OK
+     Coord. Y =           67.526          67.500           0.026           0.100          -0.100              OK
+
+Plano: Plano_superficie_sPM[1,4](ID:67, a partir de 100 puntos) 
+     Planitud =                                            0.141                                                
+
+Distancia: Altura_sPM[1,4](ID:68) entre Punto_cercano_sPM[1,4](ID:66) y Plano_superficie_sPM[1,4](ID:67)
+           SC =            1.298           1.500          -0.202           0.100          -0.100           NO OK
+
+Distancia: Anchura_sPM[1,5](ID:73) entre Linea_der_sPM[1,5](ID:72) y Linea_izq_sPM[1,5](ID:70)
+           SC =            6.025           6.000           0.025           0.100          -0.100              OK
+
+Distancia: Longitud_sPM[1,5](ID:74) entre Linea_inf_sPM[1,5](ID:69) y Linea_sup_sPM[1,5](ID:71)
+           SC =            6.083           6.000           0.083           0.100          -0.100              OK
+
+Punto: Centro_sPM[1,5](ID:77, a partir de 0 puntos) 
+     Coord. X =            0.051           0.000           0.051           0.100          -0.100              OK
+     Coord. Y =           87.531          87.500           0.031           0.100          -0.100              OK
+
+Plano: Plano_superficie_sPM[1,5](ID:80, a partir de 100 puntos) 
+     Planitud =                                            0.099                                                
+
+Distancia: Altura_sPM[1,5](ID:81) entre Punto_cercano_sPM[1,5](ID:79) y Plano_superficie_sPM[1,5](ID:80)
+           SC =            1.310           1.500          -0.190           0.100          -0.100           NO OK
+
+Distancia: Anchura_sPM[1,6](ID:86) entre Linea_der_sPM[1,6](ID:85) y Linea_izq_sPM[1,6](ID:83)
+           SC =            6.027           6.000           0.027           0.100          -0.100              OK
+
+Distancia: Longitud_sPM[1,6](ID:87) entre Linea_inf_sPM[1,6](ID:82) y Linea_sup_sPM[1,6](ID:84)
+           SC =            6.081           6.000           0.081           0.100          -0.100              OK
+
+Punto: Centro_sPM[1,6](ID:90, a partir de 0 puntos) 
+     Coord. X =            0.081           0.000           0.081           0.100          -0.100              OK
+     Coord. Y =          107.532         107.500           0.032           0.100          -0.100              OK
+
+Plano: Plano_superficie_sPM[1,6](ID:93, a partir de 100 puntos) 
+     Planitud =                                            0.107                                                
+
+Distancia: Altura_sPM[1,6](ID:94) entre Punto_cercano_sPM[1,6](ID:92) y Plano_superficie_sPM[1,6](ID:93)
+           SC =            0.031           1.500          -1.469           0.100          -0.100           NO OK
+
+Distancia: Distancia-6[1,1][1,1][1,1](ID:96) entre punto_pin[1,1][1,1][1,1](ID:95) y Plano_Z(ID:16)
+           SC =            0.075           0.000           0.075           0.500           0.000              OK
+
+Distancia: Distancia-6[1,1][1,1][1,2](ID:98) entre punto_pin[1,1][1,1][1,2](ID:97) y Plano_Z(ID:16)
+           SC =            0.217           0.000           0.217           0.500           0.000              OK
+
+Distancia: Distancia-6[1,1][1,2][1,1](ID:100) entre punto_pin[1,1][1,2][1,1](ID:99) y Plano_Z(ID:16)
+           SC =            0.260           0.000           0.260           0.500           0.000              OK
+
+Distancia: Distancia-6[1,1][1,2][1,2](ID:102) entre punto_pin[1,1][1,2][1,2](ID:101) y Plano_Z(ID:16)
+           SC =            0.348           0.000           0.348           0.500           0.000              OK
+
+Distancia: Distancia-6[1,2][1,1][1,1](ID:104) entre punto_pin[1,2][1,1][1,1](ID:103) y Plano_Z(ID:16)
+           SC =            0.259           0.000           0.259           0.500           0.000              OK
+
+Distancia: Distancia-6[1,2][1,1][1,2](ID:106) entre punto_pin[1,2][1,1][1,2](ID:105) y Plano_Z(ID:16)
+           SC =            0.255           0.000           0.255           0.500           0.000              OK
+
+Distancia: Distancia-6[1,2][1,2][1,1](ID:108) entre punto_pin[1,2][1,2][1,1](ID:107) y Plano_Z(ID:16)
+           SC =            0.169           0.000           0.169           0.500           0.000              OK
+
+Distancia: Distancia-6[1,2][1,2][1,2](ID:110) entre punto_pin[1,2][1,2][1,2](ID:109) y Plano_Z(ID:16)
+           SC =            0.010           0.000           0.010           0.500           0.000              OK
+
+Distancia: Anchura(ID:111) entre Linea_lateral_izq(ID:6) y Linea_lateral_derecho(ID:12)
+           SC =            8.042           8.000           0.042           0.200          -0.200              OK
+           SL =            8.076           8.000           0.076           0.200          -0.200              OK
+
+Distancia: Longitud(ID:112) entre Linea_lateral_inferior(ID:7) y Linea_lateral_superior(ID:13)
+           SC =          119.782         119.800          -0.018           0.500          -0.500              OK
+           SL =          119.789         119.800          -0.011           0.500          -0.500              OK
+
+Distancia: dist_rebaje_izq_sup(ID:113) entre Circulo_inferior_S1(ID:8) y Linea_rebaje_sup_izq(ID:3)
+           SC =           59.673          59.625           0.048           0.100          -0.100              OK
+           LC =           59.670          59.625           0.045           0.100          -0.100              OK
+
+Distancia: distancia_rebaje_izq_bajo(ID:114) entre Circulo_inferior_S1(ID:8) y Linea_rebaje_izq_bajo(ID:5)
+           SC =           55.401          55.375           0.026           0.100          -0.100              OK
+           LC =           55.397          55.375           0.022           0.100          -0.100              OK
+
+Distancia: Distancia_rebaje_izq_centro(ID:115) entre Linea_central(ID:15) y Linea_rebaje_izq_centro(ID:4)
+           SC =            1.789           1.750           0.039           0.100          -0.100              OK
+           SL =            1.789           1.750           0.039           0.100          -0.100              OK
+
+Distancia: Distancia_rebaje_dch_alto(ID:116) entre Circulo_inferior_S1(ID:8) y Linea_rebaje_der_alto(ID:11)
+           SC =           59.647          59.625           0.022           0.100          -0.100              OK
+           LC =           59.643          59.625           0.018           0.100          -0.100              OK
+
+Distancia: Distancia_rebaje_dch_bajo(ID:117) entre Circulo_inferior_S1(ID:8) y Linea_rebaj_der_bajo(ID:9)
+           SC =           55.398          55.375           0.023           0.100          -0.100              OK
+           LC =           55.394          55.375           0.019           0.100          -0.100              OK
+
+Distancia: Distancia_rebaje_dch_centro(ID:118) entre Linea_central(ID:15) y Linea_rebaje_der_centro(ID:10)
+           SC =            1.808           1.750           0.058           0.100          -0.100              OK
+           SL =            1.809           1.750           0.059           0.100          -0.100              OK
+
+Distancia: Distancia_entre_taladros(ID:119) entre Circulo_inferior_S1(ID:8) y Circulo_superior_katodo_S6(ID:14)
+           SC =          115.045         115.000           0.045           0.100          -0.100              OK
+           LC =          115.044         115.000           0.044           0.100          -0.100              OK
+
